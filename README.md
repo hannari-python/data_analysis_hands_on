@@ -6,7 +6,7 @@
 - [colabへの直接リンク](https://colab.research.google.com/drive/1aErSBPkqZNINhco8UaPyAtEtsWlv5dmP?usp=sharing)
 
 ## 概要
-- 利用データ: 家計調査　[支出金額 2000年1月～（CSV：241KB）](https://www.stat.go.jp/data/kakei/longtime/csv/h-mon-a.csv)
+- 利用データ: [家計調査 時系列データ](https://www.stat.go.jp/data/kakei/longtime/index.html)　[支出金額 2000年1月～（CSV：241KB）](https://www.stat.go.jp/data/kakei/longtime/csv/h-mon-a.csv)
 - 家計調査のデータを用いて前処理、可視化、機械学習をします。
 - 機械学習ではK-MEANSを用いて個別の動向の分類を行います。
 - 季節調整もちょっとだけ入れました。
