@@ -3,6 +3,7 @@
 - 2021/2/19(fri) 21:00~
 - はんなりPythonの会 データ分析ハンズオン
 - 初心者からベテランまで楽しめるよう頑張ります
+- [colabへの直接リンク](https://colab.research.google.com/drive/1aErSBPkqZNINhco8UaPyAtEtsWlv5dmP?usp=sharing)
 
 ## 概要
 - 利用データ: 家計調査　[支出金額 2000年1月～（CSV：241KB）](https://www.stat.go.jp/data/kakei/longtime/csv/h-mon-a.csv)
